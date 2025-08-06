@@ -1,7 +1,7 @@
-#📝 iTask - Manage Your Todos at One Place
+# 📝 iTask - Manage Your Todos at One Place
 iTask is a simple yet elegant React-based Todo Manager where you can create, edit, delete, and mark tasks as completed. It also remembers your todos using Local Storage, so they persist even after refreshing the page.
 
-##🚀 Features
+## 🚀 Features
 ✅ Add new todos
 
 📝 Edit existing todos
