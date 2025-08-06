@@ -26,7 +26,7 @@ iTask is a simple yet elegant React-based Todo Manager where you can create, edi
 
 - React Icons for beautiful buttons
 
-### 📸 Preview
+## 📸 Preview
 
 ### 1. Home Page
 ![Home Page](./screenshots/Home.png)
