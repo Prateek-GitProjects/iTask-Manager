@@ -16,7 +16,7 @@ iTask is a simple yet elegant React-based Todo Manager where you can create, edi
 
 📱 Responsive design for all screen sizes
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 React (Functional Components + Hooks)
 
 - Tailwind CSS for styling
@@ -35,7 +35,7 @@ React (Functional Components + Hooks)
 
 ![Responsive](./screenshots/Responsive.png)
 
-🔧 Future Improvements
+## 🔧 Future Improvements
 - Add due dates and reminders
 
 - Use a database (like MongoDB) for storing todos
