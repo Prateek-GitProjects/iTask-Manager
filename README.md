@@ -27,12 +27,16 @@ React (Functional Components + Hooks)
 
 ### 📸 Preview
 
-![Home Page](./screenshots/home.png)
+### Home Page
+![Home Page](./screenshots/Home.png)
 
-![Todos Added](./screenshots/todos.png)
+### Todos Added
+![Todos Added](./screenshots/Todos.png)
 
+### Delete Todo
 ![Delete Todo](./screenshots/Delete.png)
 
+### Responsive
 ![Responsive](./screenshots/Responsive.png)
 
 ## 🔧 Future Improvements
