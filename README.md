@@ -1,12 +1,50 @@
-# React + Vite
+#📝 iTask - Manage Your Todos at One Place
+iTask is a simple yet elegant React-based Todo Manager where you can create, edit, delete, and mark tasks as completed. It also remembers your todos using Local Storage, so they persist even after refreshing the page.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##🚀 Features
+✅ Add new todos
 
-Currently, two official plugins are available:
+📝 Edit existing todos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+❌ Delete todos with confirmation prompt
 
-## Expanding the ESLint configuration
+☑️ Mark todos as completed
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔄 Toggle visibility of completed todos
+
+💾 Persistent storage with localStorage
+
+📱 Responsive design for all screen sizes
+
+##🛠️ Tech Stack
+React (Functional Components + Hooks)
+
+- Tailwind CSS for styling
+
+- UUID for unique todo IDs
+
+- React Icons for beautiful buttons
+
+### 📸 Preview
+
+![Home Page](./screenshots/home.png)
+
+![Todos Added](./screenshots/todos.png)
+
+![Delete Todo](./screenshots/Delete.png)
+
+![Responsive](./screenshots/Responsive.png)
+
+🔧 Future Improvements
+- Add due dates and reminders
+
+- Use a database (like MongoDB) for storing todos
+
+- User authentication
+
+- Dark mode toggle
+
+- Drag and drop reordering
+
+🤝 Contributing
+Contributions are welcome! Fork the repo and open a pull request. Feel free to open issues for suggestions or bugs.
